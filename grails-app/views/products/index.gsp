@@ -2,7 +2,7 @@
 
 <html>
 <head>
-    <meta name="layout" content="main"></meta>
+    <meta name="layout" content="main">
     <title>Product listing</title>
 </head>
 <body>
