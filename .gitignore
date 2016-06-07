@@ -3,11 +3,11 @@ Thumbs.db
 .gradle
 build/
 .idea
-*.iml
 *.ipr
 *.iws
 .project
 .settings
 .classpath
 .asscache
+out
 

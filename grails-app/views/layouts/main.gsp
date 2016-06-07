@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
-    <link href="${createLinkTo(dir: '', file: 'default.css')}" media="screen" rel="stylesheet" type="text/css"/>
+    <link href="${resource(dir: '', file: 'default.css')}" media="screen" rel="stylesheet" type="text/css"/>
 
     <title><g:layoutTitle default="Grails"/></title>
     <g:layoutHead/>
